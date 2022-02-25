@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the honourable society of the natives of the most ancient county-palatine and city of Chester at St Mary le Bow, London, December 7th 1699. Published at the request of the stewards. By Peter Shelley, M.A. Rector of Woodford in Essex.</title>
+            <author>Shelley, Peter, b. 1650 or 51.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59627</idno>
+            <idno type="STC">Wing S3070</idno>
+            <idno type="STC">ESTC R221101</idno>
+            <idno type="EEBO-CITATION">99832470</idno>
+            <idno type="PROQUEST">99832470</idno>
+            <idno type="VID">36943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2059:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the honourable society of the natives of the most ancient county-palatine and city of Chester at St Mary le Bow, London, December 7th 1699. Published at the request of the stewards. By Peter Shelley, M.A. Rector of Woodford in Essex.</title>
+                  <author>Shelley, Peter, b. 1650 or 51.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Warren, for Thomas Bennet, at the Half-Moon in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36943:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the Honourable Society OF THE NATIVES Of the moſt Ancient County-Palatine and City of <hi>CHESTER,</hi> At S<hi rend="sup">t</hi> 
+               <hi>Mary le Bow, London, December</hi> 7<hi rend="sup">th</hi> 1699.</p>
+            <p>Publiſhed at the Requeſt of the Stewards.</p>
+            <p>By <hi>PETER SHELLEY,</hi> M. A.</p>
+            <p>Rector of <hi>Woodford</hi> in <hi>Eſſex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren,</hi> for <hi>Thomas Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul's</hi> Church-Yard, 1700.</p>
+            <pb facs="tcp:36943:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36943:2"/>
+            <head>TO MY Worthy Country-Men.</head>
+            <head>
+               <list>
+                  <item>
+                     <list>
+                        <head>Treaſurers.</head>
+                        <item>M<hi rend="sup">r</hi> 
+                           <hi>Richard Aſton,</hi>
+                        </item>
+                        <item>M<hi rend="sup">r</hi> 
+                           <hi>William Alexander,</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>John Hale,</hi> 
+                     <abbr>Esq</abbr>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Thomas Aſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>croft</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Samuel Leadbeater,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Carleton Vanbrug.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Robert Mainwaring,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Daniel Green,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>William Rutter,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Edward Brooke,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Richard Tyler,</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Richard Goldſmith,</hi>
+                  </item>
+               </list> Stewards of the Honourable Society of the Natives in the moſt Ancient County-Palatine and City of <hi>Cheſter.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YOur Earneſt Requeſt for the Printing of this Diſ<g ref="char:EOLhyphen"/>courſe, was no leſs ſurprizing, than your ap<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inting me to Preach it. For as my belov'd retirement <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the place I now live in, together with my long <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> my <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ative C<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntry, had interrupted all Acquaintance with, and, as I thought, render'd me unknown to you: So I did not imagine but the mean<g ref="char:EOLhyphen"/>neſs of the Performance, would induce you to avoid all further Reflections on your Choice, by Omitting a Cuſto<g ref="char:EOLhyphen"/>mary
+<pb facs="tcp:36943:3"/> Complement; rather than to defend it by Obliging me to prefix your Names in its Vindication. Though in this caſe the Printing your Approbation will be far from publiſhing it: Since the Sermon is never likely to have ſo many Readers as it had Auditors. But what<g ref="char:EOLhyphen"/>ever it wants of Ornament, I am ſure it is not defective in an honeſt, plain, good Intent; and whatever in<g ref="char:EOLhyphen"/>fluence it may have on others, thoſe great and unexpect<g ref="char:EOLhyphen"/>ed Civilities I have received from you, upon this Occa<g ref="char:EOLhyphen"/>ſion, will for ever engage me to be,</p>
+            <closer>
+               <signed>
+                  <hi>Gentlemen, Your Moſt Obliged and Moſt Humble Servant,</hi> Peter Shelley.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:36943:3"/>
+            <head>A SERMON Preach'd at the <hi>CHESHIRE-FEAST.</hi>
+            </head>
+            <epigraph>
+               <bibl>1 Pet. ii. 17.</bibl>
+               <q>Honour all Men; Love the Brotherhood; Fear God; Honour the King.</q>
+            </epigraph>
+            <p>VVHAT the Holy Apoſtle urges in this Chapter as the moſt proper method for Chriſtians to obſerve, under the Perſecution of the <hi>Roman</hi> Tyranny, and in the Infancy of Chriſtianity, that they might prevail againſt all Oppoſition; is no leſs practicable for us at this time, tho' (God be Thanked) under far different Circumſtances. What was neceſſary to propagate the Chriſtian Religion, will undoubtedly protect it when Eſtabliſh'd; and thoſe Lawful
+<pb n="2" facs="tcp:36943:4"/> means which at firſt promote, will as probably con<g ref="char:EOLhyphen"/>tinue our welfare. Thus the advice of my Text is a general and <hi>Summary</hi> comprehenſion of our Du<g ref="char:EOLhyphen"/>ty as Chriſtians, and a ſure guide to our Proſperity as Men: Teaching us the moſt infallible means to attain, and grow in favour both with God and Man. For if we <hi>Honour all Men,</hi> and <hi>Love the Brother<g ref="char:EOLhyphen"/>hood;</hi> if we <hi>Fear God and Honour the King,</hi> un<g ref="char:EOLhyphen"/>doutedly our <hi>Iſrael</hi> will flouriſh; <hi>Peace will be within our Walls,</hi> and <hi>Plenteouſneſs in all our Palaces.</hi>
+            </p>
+            <p>The Words contain two general Parts. <hi>The firſt</hi> more particularly, relates to the Alternate duty between private Perſons, <hi>Honour all Men,</hi> but eſpe<g ref="char:EOLhyphen"/>cially <hi>Love the Brotherhood. The ſecond</hi> enjoins the duty of Inferiors to their Superior, <hi>viz.</hi> of Crea<g ref="char:EOLhyphen"/>tures to their Creator, and of Subjects to their King; <hi>Fear God, and Honour the King.</hi>
+            </p>
+            <p>For the better underſtanding of which I think is not improper, to give you the import or mean<g ref="char:EOLhyphen"/>ing of the Word <hi>Honour;</hi> and</p>
+            <p>
+               <hi>Firſt,</hi> It ſignifies an outward Geſture or Reverence of the Body, by bowing the Head; puting off of the Hat, or any other ſuch like civil reſpect, ac<g ref="char:EOLhyphen"/>cording to the Cuſtom of the Nation we live in. Thus <hi>Lev.</hi> 19. 32. <hi>Thou ſhalt riſe up before the Hoary Head, and Honour the Face of the Old Man.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> It ſignifies to cenſer Honour upon ano<g ref="char:EOLhyphen"/>ther,
+<pb n="3" facs="tcp:36943:4"/> as God Himſelf ſpeaking of the Righteous Man, Pſ. 91. 15. ſays, <hi>I will be with him in trouble, I will deliver him, and honour him,</hi> i. e. I will ad<g ref="char:EOLhyphen"/>vance him to honour.</p>
+            <p>
+               <hi>Thirdly,</hi> It is taken for the joint Devotion of the Body and Heart, by paying all External and Internal Reverence unto God, as we read of <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar</hi> King of <hi>Babylon,</hi> who (after God had Puniſhed his Preſumption, and reſtored him to his Underſtanding and Kingdom) makes this So<g ref="char:EOLhyphen"/>lemn Declaration: <hi>Now I</hi> Nebuchadnezzar <hi>Praiſe and Extol, and Honour the King of Heaven, Dan.</hi> 4. 34.</p>
+            <p>
+               <hi>Fourthly,</hi> It is taken for a Charitable diſtribution of ſome part of our Eſtates, according to our Abi<g ref="char:EOLhyphen"/>lities and the Neceſſities of thoſe who want. In which ſenſe <hi>Solomon</hi> adviſes us, <hi>To Honour God with our Subſtance, and the Firſt-Fruits of all our encreaſe. Prov.</hi> 3. 9. i. e. to give, what we can well and Prudently ſpare, to ſuch Cha<g ref="char:EOLhyphen"/>ritable Uſes, as may beſt tend to the Advanc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment of Piety, and the Manifeſtation of our Thank<g ref="char:EOLhyphen"/>fulneſs to the Almighty. And this is called Ho<g ref="char:EOLhyphen"/>nouring of God, becauſe in ſo doing, <hi>1ſt.</hi> We, as His Faithful Stewards, become Diſpenſers of His Bounty to the Needy. <hi>2ly.</hi> We <hi>tacitely</hi> ac<g ref="char:EOLhyphen"/>knowledge our Gratitude to Him for His Goodneſs towards us. <hi>3ly.</hi> We own Him for the Lord and
+<pb n="4" facs="tcp:36943:5"/> Donor of all; and conſequently that the Honour and Glory of all is due unto Him; which Charity, Thankfulneſs and Humility, thus united, is an acceptable Method of aſcribing Honour unto Him.</p>
+            <p>Now tho' I muſt acknowledge, that the Honour here mentioned, is by the Apoſtle more parti<g ref="char:EOLhyphen"/>cularly intended of that, which we owe to the ſub<g ref="char:EOLhyphen"/>ordinate and deputed Magiſtrates, who are ſet over us by Kings and Princes; yet the Words may very well include a larger ſenſe; eſpecially ſince <hi>St.</hi> Paul <hi>adviſes us to be kindly Affectioned one to another in Brotherly Love, in honour prefering one another,</hi> Rom. 12. 10. as alſo when <hi>He exhorts</hi> Timothy <hi>to Honour Widows, that are Widows indeed; and to ac<g ref="char:EOLhyphen"/>count the Elders, who rule well, worthy of double Ho<g ref="char:EOLhyphen"/>nour.</hi> So that in ſtrictneſs of the ſenſe, we are poſitively commanded in the firſt Words, to Ho<g ref="char:EOLhyphen"/>nour, Reverence, and Reſpect our Governours according to their ſeveral Degrees and Qualities; not only in reſpect of their Perſons, but their Au<g ref="char:EOLhyphen"/>thority: <hi>rendering to all of them their dues; Tribute to whom tribute is due, Cuſtom to whom cuſtom, Fear to whom fear, Honour to whom honour.</hi>
+            </p>
+            <p>'Tis not then an equal and indifferent behaviour towards all Men (as ſome no leſs proudly than ignorantly imagine) which the Words enjoin; but ſuch an Honour as admits of ſeveral Degrees
+<pb n="5" facs="tcp:36943:5"/> according to the ſeveral Stations of Perſons; and even excludes ſome as altogether incapable or un<g ref="char:EOLhyphen"/>deſerving to have any Honour pay'd unto them. For though with God, in regard of the Imparti<g ref="char:EOLhyphen"/>ality of his Juſtice, there be no reſpect of Perſons; yet in order to the better Government of the World, He hath placed <hi>ſome Men as Veſſels of Honour</hi> above others, of whom <hi>He Himſelf</hi> tells us, <hi>I have ſaid ye are Gods.</hi> And certainly to refuſe to pay our Obliged honour to ſuch, is as ridiculous and un<g ref="char:EOLhyphen"/>ſeemly, as it is to give it unto Fools or Beggars.</p>
+            <p>But beſides thoſe, whom God and the King have ſet over us, there is Honour due to ſome by their Birth and Quality; to others upon the ac<g ref="char:EOLhyphen"/>count of their Parts and Abilities; and to a third ſort, by Reaſon of ſome Obligeing kindneſs or fa<g ref="char:EOLhyphen"/>vour received from them. To all theſe (beſides that due from near Relations to one another, and from a Servant to his Maſter) there is an extraor<g ref="char:EOLhyphen"/>dinary Honour and reſpect to be ſhewed, void of envy and detraction. For aſſuredly it is our un<g ref="char:EOLhyphen"/>doubted Obligation to Reverence and Reſpect thoſe before the reſt of Mankind, whom God hath peculiarly raiſed above others, to be Inſtru<g ref="char:EOLhyphen"/>ments and Promoters of His Glory, and the Pub<g ref="char:EOLhyphen"/>lick or even our Private Good.</p>
+            <pb n="6" facs="tcp:36943:6"/>
+            <p> As we ſay Love generally begets Love, ſo in this caſe the diſcreet Performance of this Duty, by demeaning our ſelves lowly and reverently to all our betters, will incite them to reward the Ho<g ref="char:EOLhyphen"/>nour, with favour and Affection. Such Behavi<g ref="char:EOLhyphen"/>our will Meliorate the Diſpoſitions of thoſe who otherwiſe might be enclin'd to Oppreſſion. It is alſo the moſt approved Method to prevail over the haughty to look favourably upon the humble; It will improve and enlarge the generous, Compaſſio<g ref="char:EOLhyphen"/>nate Soul, to continue his Bounty and Loving-kindneſs, with the greater Chearfulneſs and Alacri<g ref="char:EOLhyphen"/>ty. Thus one Duty will be a motive to another; and Perpetuate a Reciprocal endeavour towards the obtaining of Peace, Unity and Concord, which always produces Plenty and Proſperity.</p>
+            <p>But as the Apoſtle Commands this Honour in general to Perſons of all Nations and Religions, Good or Bad, as the Circumſtances of thoſe Chri<g ref="char:EOLhyphen"/>ſtians who live under them require: So much more are we engag'd to do it to thoſe of our own Nation or Religion. We muſt and may <hi>Honour all Men</hi> according to their Eſtate and Condition; but in a more ſtrict and peculiar manner we are enjoin'd. <hi>Qly. To Love the Brotherhood.</hi> Now as this <hi>Love</hi> con<g ref="char:EOLhyphen"/>tains in it the <hi>Honour</hi> before mentioned: So over and above it includes in it ſuch a mutual affection,
+<pb n="7" facs="tcp:36943:6"/> Alliance and Brotherly Love, as muſt Exert it ſelf in all manner of Actions which may lawfully and prudently tend to the Good of each other.</p>
+            <p>This is the very Characteriſtical and diſtinguiſh<g ref="char:EOLhyphen"/>ing Badge of Chriſt's Diſciples. <hi>A new Command<g ref="char:EOLhyphen"/>ment I give unto you, ſaith our Saviour, That ye Love one another. As I have Loved you, that ye alſo Love one another. By this ſhall all Men know that ye are my Diſciples, if ye have Love one to another,</hi> John 13. 3, 4, 5. He redoubles and repeats the Com<g ref="char:EOLhyphen"/>mand, as it were thrice in the ſame Breath, on purpoſe to urge it with the greater energy or force; and to make it take the deeper Impreſſion upon us. He plainly foreſaw what diſmal Perſecu<g ref="char:EOLhyphen"/>tions would oppreſs the Faithful; and that the ſtricteſt Obligations to Love and Friendſhip would be of abſolute neceſſity to ſupport them in their ſufferings; and therefore He delivers this Com<g ref="char:EOLhyphen"/>mandment with ſuch Pathetick Circumſtances as might engage them more effectually to the perfor<g ref="char:EOLhyphen"/>mance. 'Tis ſome comfort to have Co-partners in trouble, (I mean for a good cauſe) The un<g ref="char:EOLhyphen"/>daunted Conſtancy of one buoys up the ſinking Spirit of another: And mutual Compaſſion does in a manner divide any affliction, making it affect the ſuffering party with a far leſs Powerful reſent<g ref="char:EOLhyphen"/>ment. But certainly in ſuch caſes 'tis the indi<g ref="char:EOLhyphen"/>ſpenſable
+<pb n="8" facs="tcp:36943:7"/> Duty of the whole Church, to aſſiſt them to the utmoſt, not only with their Prayers but their purſes.</p>
+            <p>
+               <hi>'Tis more Bleſſed to give than to receive, ſays our Saviour;</hi> and ſurely no inſtance of it can be more honourable, than that of relieving thoſe who ſuffer for Righteouſneſs ſake. This is the higheſt Act of Charity; the trueſt Teſt of every Chriſtian; <hi>wherein every one ought to vye with each other for the common edifying of the Church.</hi> 'Tis the cheapeſt compoſition, and hath the beſt of all Funds to en<g ref="char:EOLhyphen"/>ſure us from the like Extremity. And I doubt not, but God in his great Mercy will ſo effectually hear and accept our Prayers and Charity for the diſtreſſed Proteſtants, as to ſhorten the time of their Perſecu<g ref="char:EOLhyphen"/>tion; and to Crown them with Religious perſe<g ref="char:EOLhyphen"/>verance, to the Salvation of their own Souls, and (may it pleaſe God) to the Converſion of their Tormentors alſo. 'Twere eaſy to enlarge upon this ſubject, but the preſent Occaſion recals me home, to thoſe who are our Brethren in a nearer Relation. For though we ought to retain an Uni<g ref="char:EOLhyphen"/>verſal good will towards all Mankind, eſpecially Chriſtians; yet ſince our Abilities cannot poſſibly extend to all, Love contracts the Object of our Cha<g ref="char:EOLhyphen"/>rity; that we ſhould not imprudently beſtow that on Strangers which more properly belongs to our
+<pb n="9" facs="tcp:36943:7"/> own Country. Charity and Love in this point may lawfully begin at home. For Nature in<g ref="char:EOLhyphen"/>ſtructs us to have an inbred affection to the Place we were Born in; the Perſons we are related to, and thoſe we are bred up, or have Converſation, with. 'Tis the main deſign of your meeting. To maintain Friendſhip and Promote Charity; and indeed the advice of my Text is an effectual Me<g ref="char:EOLhyphen"/>thod to both; towards the Obſervance and intent of which be pleas'd to take notice, That our <hi>Love to the Brotherhood</hi> conſiſts.</p>
+            <p>
+               <hi>Firſt,</hi> In Loving the Perſons, ſeperately as Brethren.</p>
+            <p>
+               <hi>Secondly,</hi> In Loving the Aſſembly, Collectively as a Church.</p>
+            <p>The firſt of theſe exerts it ſelf in the mutual Amity of each other as equals. <hi>How good and plea<g ref="char:EOLhyphen"/>ſant a thing it is for Brethren to dwell together in <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ty!</hi> ſays <hi>the Pſalmiſt.</hi> 'Tis as ſweet incenſe in the Noſtrils of the Almighty; acceptable to God, beneficial unto Men. Nothing is able (as to our humane endeavours) to preſerve Church and State ſo much, as mutual <hi>Brotherly Love which is the Fruit of the Spirit; the very bond of Peace.</hi> This redou<g ref="char:EOLhyphen"/>bles all that is good, this will ſweeten and mitigate all afflictions: And will render that conſiderable in an entire Body, which would be almoſt deſpi<g ref="char:EOLhyphen"/>cable
+<pb n="10" facs="tcp:36943:8"/> if ſeperated. Such Societies as theſe ren<g ref="char:EOLhyphen"/>der <hi>London like</hi> Jeruſalem <hi>as a City at <g ref="char:V">Ʋ</g>nity in it ſelf;</hi> wherein nothing is more Amiable and Lovely, than the Harmonious concourſe of Perſons, <hi>thus gathered together</hi> (as it were in Tribes) <hi>to ſerve God,</hi> and do good unto Men. From this ſource (as Springs from the Ocean) ariſe many circu<g ref="char:EOLhyphen"/>lating Veins of treaſures which flow to it again in larger ſtreams: And by ſuch means you Water and refreſh even the barreneſt Countries at the re<g ref="char:EOLhyphen"/>moteſt diſtance; which is your greateſt Glory. For as the External ornament conſiſts in the Pomp and appearance of the Perſons: So the In<g ref="char:EOLhyphen"/>ternal, which is chiefly to be regarded, is moſt remarkable in that Charity which attends it; and is indeed the moſt Important as well as Religious intent of your Meeting. And this leads me to ſpeak,</p>
+            <p>
+               <hi>Secondly,</hi> Of that Love to our Inferior Brethren, which maniſeſts its ſelf in contributing to their neceſſities. Bare Speculative Love is not all that is required; Outward Pomp and ſhew, ſignify nothing, without actual Charity in contributing to the relief of our Brethren; which is a duty in<g ref="char:EOLhyphen"/>cumbent upon us by a double Obligation.</p>
+            <p>
+               <hi>Firſt,</hi> In Gratitude to Gods Bounty towards us.</p>
+            <p>
+               <hi>Secondly,</hi> In Obedience to His expreſs Commands.</p>
+            <pb n="11" facs="tcp:36943:8"/>
+            <p>'Tis God's Providence alone which hath made a diſtinction amongſt us. There is no difference in the Original mould, nor will there be in the duſt of the Grave. <hi>The rich and poor are equal in this, the Lord is the Maker of them both.</hi> He could either have made the Birth abortive; or the wiſeſt and richeſt Fools and Beggars. Nay, He can in a ſmall time reduce the moſt <hi>Potent Monarch</hi> from the <hi>Throne</hi> to the <hi>Dung-hill;</hi> and (as He did <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzar) make him dwell with the wild Aſſes, and eat Graſs with the Beaſts of the Field;</hi> For it is by His free Grace alone that we are what we are.</p>
+            <p>We can make Him no Retaliation for the good things He hath plentifully beſtowed on us; we muſt therefore pay to the Creature in this ſenſe what is due to the Creator: And ſince every other Species delights in its kind, 'tis Natural as well as Religious for one Man to aſſiſt and ſupply the ne<g ref="char:EOLhyphen"/>ceſſities of another.</p>
+            <p>Yet leaſt this Duty, tho' apparently reaſonable, ſhould be neglected; and Men endeavour ungrate<g ref="char:EOLhyphen"/>fully to excuſe what they are unwilling to per<g ref="char:EOLhyphen"/>form; we have many plain and poſitive Com<g ref="char:EOLhyphen"/>mands in Scripture to enforce us to it, and there<g ref="char:EOLhyphen"/>fore muſt be Charitable.</p>
+            <p>
+               <hi>Secondly,</hi> In Obedience to God's Commands.</p>
+            <pb n="12" facs="tcp:36943:9"/>
+            <p> There is ſcarce any Command in Scripture more frequently repeated, eſpecially in the New Teſtament, than to <hi>Love one another;</hi> and there can be no inſtance of our Love, more uſeful or convincing than by our relieving the Neceſſitous. In proſperity every one hath Friends but in adver<g ref="char:EOLhyphen"/>ſity few have any. For that's the touchſtone of true Friendſhip, and we muſt gratefully acknow<g ref="char:EOLhyphen"/>ledge the Fidelity of thoſe, who ſupply our Ne<g ref="char:EOLhyphen"/>ceſſities when there is no proſpect of a return. Yet that this Virtue may not want its due En<g ref="char:EOLhyphen"/>couragement, nor the Poor Benefactors, God him<g ref="char:EOLhyphen"/>ſelf gives this poſitive Command, <hi>Deut.</hi> 15. <hi>Thou ſhalt Open thine hand wide unto thy brother, to thy poor and to thy needy in the land; Thou ſhalt ſure<g ref="char:EOLhyphen"/>ly give unto him and thy heart ſhall not be grieved when thou giveſt unto him; becauſe that for this very thing the Lord thy God ſhall bleſs thee in all thy Works and in all that thou putteſt thine hand unto.</hi> Here we have a poſitive Command to be Charitable, and that in a large meaſure; <hi>we muſt open our hand wide;</hi> i. e. liberally and freely Anſwerable to their Occaſions and our Abilities: And the reaſon of this Com<g ref="char:EOLhyphen"/>mand is the more obſervable; being <hi>for this very Cauſe God hath bleſſed ſome with riches above ohers,</hi> that they might be his Faithful Stewards and Trea<g ref="char:EOLhyphen"/>ſurers for the Poor. Nor is it a diminution to any
+<pb n="13" facs="tcp:36943:9"/> ones greatneſs to Exerciſe this Virtue: Nay, 'tis indeed the Principal intent of God in raiſing ſome above others. For ſince all Superiority is for the publick Good; the greateſt Soveraigns and Princes cannot more firmly eſtabliſh themſelves in their greatneſs; or be more Honourably employ'd, than in relieving the needy and oppreſſed: Who are as foils to Diamonds, which tho' of inferiour eſtimation, do notwithſtanding very much encreaſe and ſet off the Luſtre. Nothing makes them more reſemble the Great God of Heaven (from whom alone they derive their Authority) than to imitate the Divine Goodneſs in Works of Univerſal Mercy and Compaſſion. So that it may be no ſmall motive to this Duty if I briefly inform you,</p>
+            <p>
+               <hi>Firſt,</hi> Of the Excellency of Charity.</p>
+            <p>
+               <hi>Secondly,</hi> Of ſome Promiſes attending it.</p>
+            <p>As to the <hi>Firſt,</hi> It is a Divine Vertue, not on<g ref="char:EOLhyphen"/>ly acceptable unto God; but in a diſproportiona<g ref="char:EOLhyphen"/>ble manner <hi>evincing</hi> us to be reſemblers of him. And yet, in this caſe, he is ſo far from being jea<g ref="char:EOLhyphen"/>lous of any aſſault upon his Honour; that being eſſentially Bountiful in himſelf, he delights to ſee it ſhine in his Creatures: And according to his Bounty unto any, he expects they ſhould contri<g ref="char:EOLhyphen"/>bute to the neceſſities of others.</p>
+            <pb n="14" facs="tcp:36943:10"/>
+            <p> This is the beſt Teſtimony of our Thankfulneſs unto God; Honourable in its own Nature; and help to the Needy, Profitable to our very ſelves, commended by others, and an Act which makes Gods as it were of Men, by communicating to thoſe who want things neceſſary to their Being and Well-Being. So that ſuch Perſons are as Viſible God's diſtributing the common neceſſaries of Life to the Poor; who, next under God, ſeem to have an immediate dependance upon charitable People: And whoſe Welfare is in a manner at their diſcre<g ref="char:EOLhyphen"/>tion, as they pleaſe to diffuſe or reſtrain their Bounty. And in this reſpect the Rich and Cha<g ref="char:EOLhyphen"/>ritable are as it were the perpetual Overſeers of the Poor; the very Conduits of God's Liberality. He places his Treaſures in their hands, and if they prove Faithful in Diſtributing as well as Receiving of his Bounty, they <hi>make themſelves Friends of,</hi> that which otherwiſe will prove, <hi>the Mammon of <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>righteouſneſs.</hi>
+            </p>
+            <p>But that no encouragement may be wanting to promote this Duty.</p>
+            <p>
+               <hi>Secondly,</hi> God hath annexed Promiſes, to the performance of it, ſuitable to our humane con<g ref="char:EOLhyphen"/>ceptions; as it were on purpoſe to ſtifle all Ob<g ref="char:EOLhyphen"/>jections which avarice might object againſt it. For leaſt any one ſhould be reſtrain'd from this Duty
+<pb n="15" facs="tcp:36943:10"/> through fear of impoveriſhing himſelf; <hi>God aſſures</hi> us, Prov. 11. 25. <hi>That the Liberal Soul ſhall be made Fat: And he that watereth</hi> [others] <hi>ſhall be watered alſo himſelf.</hi> And in the 28 <hi>chap.</hi> at the 27. <hi>v. He that giveth unto the Poor ſhall not lack.</hi> But leaſt theſe ſhould not be prevalent enough, it is expreſly ſaid, Prov. 19. 17. <hi>He that hath Pity on the Poor, Lendeth unto the Lord; and that which he hath given will God pay him again.</hi> Here the Lord himſelf expreſly becomes a ſurety; and 'tis very certain, that he, who refuſes to lend upon this ſecurity, muſt unavoidably diſpleaſe God. For, beſides the Breach of his Commands, he tacitely indeed, but yet very plainly, confeſſes, That he believes ei<g ref="char:EOLhyphen"/>ther God is unable and cannot pay, or that he is unjuſt and will not pay what he Promiſes. Now judge whether either of theſe Opinions are fit to be conceived of <hi>Him who by His Power hath made the World and in Equity preſerves it.</hi>
+            </p>
+            <p>But our Bleſſed Saviour goes yet further and plainly aſſures us, That <hi>if we give, it ſhall not only be repaid unto us, but</hi> with ſuch great intereſt as me<g ref="char:EOLhyphen"/>thinks ſhould tempt a Miſer; even <hi>with full mea<g ref="char:EOLhyphen"/>ſure, preſſed down and running-over.</hi> And thus have I briefly inſiſted upon ſome motives to this Duty of Charity. As to the Perſons moſt proper; or the proportion to be alloted them, it is altogether
+<pb n="16" facs="tcp:36943:11"/> needleſs for me to direct. Your former Experience will beſt inſtruct you in theſe particulars, and God proſper the Methods you have taken. May he, who alone can, Sanctify your Charity for the Uſes intended; as alſo thoſe by whom, and thoſe to whom it is to be diſtributed. But beſides this Love to the Perſons ſeparately as Brethren.</p>
+            <p>
+               <hi>Secondly,</hi> We are to Love the Brotherhood col<g ref="char:EOLhyphen"/>lectively as a Church. And indeed this is the Principal intent of the Apoſtle. This is the moſt endearing, amiable inſtance of Brotherly affection; when <hi>with one Heart and one Mind we Worſhip the Lord in the Beauty of Holineſs.</hi> To obtain and continue which Bleſſing (tho' it may not become me to ſuſpect, that any (at leaſt of thoſe who hear me) differ in Opinion of Religious purport; yet) I hope no one, conſidering the unhappy Di<g ref="char:EOLhyphen"/>viſions amongſt us, will think it improper, ear<g ref="char:EOLhyphen"/>neſtly to beſeech God, <hi>That he who can make the People of one Mind,</hi> would vouchſafe in Mercy to do ſo. That as we are Members of one County: So we ſhould be all Members of the ſame Church: And <hi>walk unto the houſe of God</hi> unanimouſly <hi>as Brethren; not forſaking the aſſembling</hi> of <hi>our ſelves together as the manner</hi> of <hi>ſome is, but exhorting,</hi> and <hi>vying with one another in</hi> Love: <hi>That</hi> by <hi>the like proportion as the Members</hi> of <hi>a natural Body tend all to the mutual de<g ref="char:EOLhyphen"/>cency,</hi>
+               <pb n="17" facs="tcp:36943:11"/> 
+               <hi>ſervice and ſuccour of the ſame; So we may</hi> Contribute all we poſſibly can to the Concord and Welfare of Chriſt's Myſtical Body his Church. Surely God is there moſt peculiarly Preſent; he is there moſt Propitious. <hi>One Day</hi> ſpent in Devo<g ref="char:EOLhyphen"/>tion <hi>There, is,</hi> as <hi>David</hi> ſays, <hi>better than a Thouſand.</hi> Nay he tells us, <hi>He had rather be a doorkeeper,</hi> i. e. a Lazar or Beggar, a deſpicable, vile Perſon lying <hi>at the</hi> Threſhold of the <hi>Houſe of God,</hi> who (yet was not admitted to enter in) <hi>than to Dwell in the Tents of Wickedneſs,</hi> i. e. than to enjoy all the out<g ref="char:EOLhyphen"/>ward Pomp and Splendor in the World, and be de<g ref="char:EOLhyphen"/>barr'd of the inexpreſſible pleaſure of Worſhiping God at the Tabernacle of his Holineſs. I hearti<g ref="char:EOLhyphen"/>ly wiſh all were of <hi>David</hi>'s Mind, and that there were no ſeparations from the Church; For certain<g ref="char:EOLhyphen"/>ly if <hi>Chriſt</hi>'s <hi>Coat was not to be parted,</hi> it is extream<g ref="char:EOLhyphen"/>ly dangerous <hi>to rend his Body in pieces.</hi> But I will not engage my ſelf further upon this ſubject, and ſhall paſs,</p>
+            <p>
+               <hi>Secondly,</hi> To the other General part of my Text,</p>
+            <p>
+               <hi>Fear God, Honour the King.</hi>
+            </p>
+            <p>
+               <hi>Fear,</hi> Indeed in the common Notion of the Word, denotes the greater ſubjection, and <hi>Honour</hi> the greater Love: But if I ſhould thus expound the Text, I might ſeem to follow the letter; but
+<pb n="18" facs="tcp:36943:12"/> ſhould very much ſwerve from the true ſenſe of the Scripture. For although it be ſaid that we muſt Fear God, yet it is not to be with a ſervile dread or horror, (as 'tis ſaid the <hi>Indians</hi> worſhip the Devil) with ſuch a Reverend, Holy and aweful Fear as may Teſtify the greateſt Honour, Love and Du<g ref="char:EOLhyphen"/>ty from an Inferiour to a Superiour. And where<g ref="char:EOLhyphen"/>as it is ſaid we muſt Honour the King, we are thereby bound in Duty to obſerve an <hi>Honourable</hi> regard to his Authority, and to obey his Lawful Commands; but with this difference; <hi>viz.</hi> We are to Fear and Honour the One as our Maker, the other as under him, our Supream Governour. We are to obey God in every thing be it what it will; we are to obey the King only in Lawful things. We muſt Fear and Honour both where it will conſiſt with each other; but in a caſe where we are under a neceſſity of diſpleaſing one, the Fear of God challenges the Superiority: Tho' even in that caſe, where we may Lawfully diſ<g ref="char:EOLhyphen"/>obey the King; we ought to do it in ſuch an humble and reſpectful manner, as may apparently declare our Honour to his Authority in all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Obligations, though in that particular we diſobey.</p>
+            <pb n="19" facs="tcp:36943:12"/>
+            <p> But to ſpeak of each apart.</p>
+            <p>We muſt Fear God ſo as to keep from offend<g ref="char:EOLhyphen"/>ing him; as grateful Perſons do their Benefactors; or Lovers their Beloved. Not ſo much out of Fear of Puniſhment, as out of Tenderneſs and Af<g ref="char:EOLhyphen"/>fection not to diſpleaſe One we are ſo Infinitely oblig'd unto.</p>
+            <p>
+               <hi>Firſt,</hi> Then we muſt Fear God, not only for the ſake of his Goodneſs and Excellency, which is great, wonderful and Holy, and conſequently to be Belov'd in reſpect of it ſelf: But alſo for his Diſpenſation of it to us; <hi>in giving us all things free<g ref="char:EOLhyphen"/>ly to enjoy.</hi> Things comfortable as well as Ne<g ref="char:EOLhyphen"/>ceſſary; ſometimes beyond our Deſires, always beyond our Deſerts. But (above all things con<g ref="char:EOLhyphen"/>ducing to our Worldly Being) that of his Re<g ref="char:EOLhyphen"/>demption of Mankind by his Dearly Beloved Son, cannot but have a Powerful Influence, where it is Faithfully digeſted. For what can ſo affecti<g ref="char:EOLhyphen"/>onately Unite us to another, as His offering his very Life, not for his own but our Good? Yet this Chriſt did; who being the Son of God diſ<g ref="char:EOLhyphen"/>dained not to become the Son of Man; and ha<g ref="char:EOLhyphen"/>ving no Sin dyed for ours, that we might be ſaved.</p>
+            <pb n="20" facs="tcp:36943:13"/>
+            <p> 
+               <hi>Secondly,</hi> We muſt Fear God becauſe of his abſo<g ref="char:EOLhyphen"/>lute Power. As he Created the World by his Meer Word: So by his Word he can eaſily reduce it to that confuſed Chaos from whence he Created it. He gave us that Breath which we call Life: and when it ſhall pleaſe him to demand it, we ſhall return again to the duſt. 'Tis as impoſſible for us to refuſe or outlive his Summons: As it was for us to become Living Creatures before he gave the All-ſufficient Word. Such Thoughts as theſe will make us tremble, and not only <hi>ſerve the Lord with Fear;</hi> but even, when (as now) He gives us Occaſion of Joy, that we <hi>rejoice before him with Reverence.</hi> Yet that which is the ſtrongeſt motive to our Fear of him, after the conſideration of this Abſolute Power, is</p>
+            <p>
+               <hi>Secondly,</hi> His Impartial Juſtice. <hi>There is no reſpect of Perſons with God,</hi> ſays the Apoſtle. Not but that he admits, nay Commands, us to Honour ſome Perſons here on Earth before others: Only when they come before his Tribunal all are alike, and ſhall be rewarded or puniſhed, not according to their Qualities, but Deſerts. Neither can the ſecrecy of any Action (be it never ſo cunningly managed) hinder him from the Knowledge of it, or exempt us from the Puniſhment. For he is Omniſcient and knoweth all things; He is Omni<g ref="char:EOLhyphen"/>preſent
+<pb n="21" facs="tcp:36943:13"/> and conſequently ſeeth; He is Omnipo<g ref="char:EOLhyphen"/>tent and therefore able to Puniſh the mightieſt of his Creatures. His Knowledge informs him in<g ref="char:EOLhyphen"/>fallibly of all things; His Juſtice will not ſuffer him to be partial in Judgment; and his Power enables him to execute whatever his Juſtice decrees. Yet leaſt we ſhould any ways be diſcouraged by the conſideration of this Power and Juſtice; as al<g ref="char:EOLhyphen"/>ſo by our own readineſs to every Evil Work (whereby we may provoke Him to anger) there are two Allaies to prevent an Holy Fear; from degenerating into an Uncomfortable Deſpair. For,</p>
+            <p>
+               <hi>Firſt,</hi> God is as Good as He is Abſolute: So that we need not to dread his Unlimited Power. He is even Goodneſs it ſelf and cannot do any Tyrannous Act of Oppreſſion: But on the con<g ref="char:EOLhyphen"/>trary <hi>takes Pleaſure in the Proſperity of His Creatures;</hi> and hath Gratiouſly promiſed that if we <hi>ſeek the Kingdom of God and His Righteouſneſs, all Earthly</hi> Bleſſings <hi>ſhall be added unto us:</hi> For <hi>He will deny no good thing to them who live a Godly Life.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> He is as Merciful as he is Juſt. Nay if there be any Excellency (one above another) in Infinite things, it far exceeds it: For the Pſalmiſt tells us, That <hi>His Mercies are above all his Works.</hi> Pſ. 145. 9. Theſe are the Chiefeſt,
+<pb n="22" facs="tcp:36943:14"/> though not all the motives for our Fear of God as it is enjoin'd by the Text.</p>
+            <p>I come now to the other General Duty, <hi>viz.</hi> That of a Good ſubject, which is</p>
+            <p>
+               <hi>Secondly,</hi> To Honour the King, and this con<g ref="char:EOLhyphen"/>ſiſts chiefly,
+<list>
+                  <item>I. In Honouring or Reverencing their Per<g ref="char:EOLhyphen"/>ſons for the ſake of their Authority.</item>
+                  <item>II. In Paying Tribute unto them.</item>
+                  <item>III. In Praying for them. And</item>
+                  <item>IV. In Obeying their Lawful Commands.</item>
+               </list>
+            </p>
+            <p n="1">I. As to the Perſons for the ſake of their Authority. We generally find that whenever People are once diſaffected to the Perſons of Men; they have little regard to their Station, or any other Perfecti<g ref="char:EOLhyphen"/>on they are endowed with. Now though God doth highly diſapprove and condemn all reflecti<g ref="char:EOLhyphen"/>ons upon others (eſpecially for thoſe Infirmities which are not in the Power of Man to prevent) yet the Perſons of Kings ought to be accounted Sacred, and more peculiarly to be exempted from the vulgar Cenſures of Men. <hi>Thou ſhalt not revile the Gods; nor ſpeak evil of the Ruler of thy People,</hi> ſays God himſelf, <hi>Ex.</hi> 22. 28. And the Rea<g ref="char:EOLhyphen"/>ſon may be, not only the reſtraining of unjuſt
+<pb n="23" facs="tcp:36943:14"/> Cenſures and Reports: but the prevention of a diſrepect which inſenſibly encreaſes againſt the Dignity as well as the Perſons. Thus our Law tells us, That the Crown takes away all defects. And even the Murmuring <hi>Iſraelites,</hi> when as <hi>Da<g ref="char:EOLhyphen"/>vid</hi> was once ſettled in the Throne, never object<g ref="char:EOLhyphen"/>ed againſt his being the Youngeſt Son of <hi>Jeſſe,</hi> but acknowledg <hi>Him to be worth ten Thouſand of them,</hi> As being the Lord's Anointed.</p>
+            <p>But this Honouring their Perſons will be of little uſe to the Government of a Kingdom, unleſs,</p>
+            <p n="2">II. We pay Tribute alſo. Since it is the Su<g ref="char:EOLhyphen"/>pream care to Defend and provide for the Publick good, 'tis but reaſonable that the Charge ſhould be maintain'd by a publick Revenue; which can ne<g ref="char:EOLhyphen"/>ver be fixt and ſettled in any Nation, but muſt encreaſe proportionably to the different Circum<g ref="char:EOLhyphen"/>ſtances of times: And the ſtrength or Power of thoſe Enemies we have to encounter. Nor are we to delay proviſions for our ſafety till we are actually invaded: But muſt prudently endeavour to fortify our ſelves againſt any ſurprize; not ac<g ref="char:EOLhyphen"/>counting ſuch preparations unneceſſary Grandeur, but uſeful precautions for our common ſafety and defence. To make which the more effectual.</p>
+            <p n="3">III. We muſt Pray for Kings, according to St. <hi>Paul</hi>'s exhortation; <hi>Let ſupplications, Prayers,</hi>
+               <pb n="24" facs="tcp:36943:15"/> 
+               <hi>interceſſions and giving of Thanks be made for all Men: eſpecially for Kings, and all that are in Authority under them, that we may lead a quiet and peaceable Life in all Godlineſs and Honeſty.</hi> 1 Tim. 2. 1, 2. The affairs of a Kingdom are of ſuch Moment, that Kings of of all others ought to be moſt aſſiſted: And this of Prayer is not only one of the beſt, but the cheapeſt way of doing it. There is that promiſe to our Prayers, which is not to our Treaſures: And if we faithfully and devoutly pray God to di<g ref="char:EOLhyphen"/>rect and proſper the Counſels of our Governours; they may, and no doubt will, render the other much more effectual. <hi>Hezekiahs</hi> Prayer was more prevalent, than the United ſtrength of all <hi>Judah,</hi> againſt the vaſt Army of <hi>Sennacherib.</hi> Let not theſe therefore be wanting which are of ſuch Powerful influence, and may be perform'd with<g ref="char:EOLhyphen"/>out any coſt and with very little labour. And ſo I ſhall paſs to</p>
+            <p>
+               <hi>Fourthly,</hi> The fourth branch of our Duty to Kings, and that is Obedience to their Lawful commands. This is fully ſet down by the Apoſtle a little be<g ref="char:EOLhyphen"/>fore my Text. <hi>Submit your ſelves to every Ordinance</hi> of <hi>Man</hi> for <hi>the Lords ſake; whether it be unto the</hi> King <hi>as Supream; or unto Governours as unto thoſe that are ſent by him for the puniſhment of Evil-doers, and for the Praiſe of them that do well: For ſo is the</hi>
+               <pb n="25" facs="tcp:36943:15"/> 
+               <hi>will of God, that with well doing ye may put</hi> to ſilence <hi>the ignorance of fooliſh Men.</hi> ſo that when the King commands any thing (which God or the Law of the Land do not forbid) it may be ſaid, That his Commands are to be obſerved for the Lord's ſake; becauſe God the Supream, commands ſuch ſubjection to the King his Vicegerent in mat<g ref="char:EOLhyphen"/>ters of Government.</p>
+            <p>And if theſe were Duties incumbent upon the Chriſtians in thoſe days, when Tyranny, Perſecu<g ref="char:EOLhyphen"/>tion and Arbitrary Power were the avowed pra<g ref="char:EOLhyphen"/>ctiſes of thoſe in Authority; who broke through all Laws to attain their ungovernable Wills: and in particular levell'd their Malice againſt the Church of God with an entire reſolution to ruin and de<g ref="char:EOLhyphen"/>ſtroy it: Certainly our preſent circumſtances do much rather enforce the Obligation to this Duty; having One now ſitting on the Throne who makes it his whole Delight to defend and protect us: In<g ref="char:EOLhyphen"/>ſomuch as never any King did more to deſerve that Authority which Providence hath thought fit to confer upon him. For to Enumerate ſome few of his many Glorious Actions, (ſince the ſtrait<g ref="char:EOLhyphen"/>neſs of time will not allow me to mention more) How ſeaſonably did he come to our relief when our Religion and Liberty were even Mark'd out
+<pb n="26" facs="tcp:36943:16"/> for Deſtruction! How continually hath God Bleſs'd his Endeavours with ſuch ſucceſs, as ap<g ref="char:EOLhyphen"/>parently teſtify his Divine Approbation! How unaccountably did God by him put an hook in the Noſtrils of the great <hi>Leviathan;</hi> and force him to ſurrender by a Peace what could not be got in War! With what induſtrious Fatigue, and ſingu<g ref="char:EOLhyphen"/>lar Prudence, hath he continued his Tranſmarine Voyages (not giving himſelf up to Luxury and Exceſs as the reward of his Labours, but) by his Preſence abroad improving the Confederacy in Peace as well as War: and animating them by his immediate Counſel and Conduct to Fruſtrate the great deſigns of that Mighty King who is ſtill Watchful and ready <hi>when, where,</hi> and <hi>whom</hi> he may devour. By which means he hath preſerv'd us from dangers, beyond our reach to foreſee, and obtain'd Benefits we are not aware of. But I need not enlarge to you upon this Topick. Your Loyalty hath been in this Age ſufficiently remark<g ref="char:EOLhyphen"/>able. You were the only Perſons who ſtood up in Defence of our Laws and Religion againſt Anarchy and Confuſion, when as the reſt of the Nation ſeem'd to be in a deep Lethargy. Nor did that Publick Spirit of our Ancient Gentry, under the Conduct of the Honourable Father, expire with
+<pb n="27" facs="tcp:36943:16"/> the Fatal iſſue of that glorious Deſign: But ex<g ref="char:EOLhyphen"/>erted it ſelf as Need requir'd, with equal Vigour, by aſſiſting the no leſs Right Honourable Son; who did ſo zealouſly and ſucceſsfully revive the Courage of our Country-Men, as very much Fa<g ref="char:EOLhyphen"/>cilitated the late Happy Revolution, and will Chro<g ref="char:EOLhyphen"/>nicle our Natives with Honour to all Poſte<g ref="char:EOLhyphen"/>rity.</p>
+            <p>Neither are we only Eminent for Loyalty, but can aſſert a Title as good as any to the other three Duties of the Text. For as no County can produce more Ancient Families than Ours: So none are more reſpected and Honoured in it; which is but the due acknowledgment of their Exemplary Hoſ<g ref="char:EOLhyphen"/>pitality.</p>
+            <p>
+               <hi>The</hi> intermixt Matches of Families (which former<g ref="char:EOLhyphen"/>ly were ſeldom out of the County) hath ſo gene<g ref="char:EOLhyphen"/>rally Allianc'd one to another as the whole is a kind of Literal Brotherhood. And Laſtly, That Motto we bear of <hi>Antiqui colant Antiquum Dierum</hi> engages Us, in imitation of our Anceſtors, to worſhip the God of our Fathers; So that the whole Text is as it were a Character of your Converſations.</p>
+            <p>What then remains, but that we earneſtly be<g ref="char:EOLhyphen"/>ſeech God that we may perſevere in Wel-doing. That thoſe who have enjoyed, and thoſe who
+<pb n="28" facs="tcp:36943:17"/> now are to reap the benefit of this Honourable Soci<g ref="char:EOLhyphen"/>ety, may with Thankful Hearts pray for, and Honour their Benefactors; and make a right uſe of that Charity beſtowed on them. Let us alſo Pray that God would continue this generous and Religious Spirit upon our Country-Men to ſuc<g ref="char:EOLhyphen"/>ceeding Generations; And aſſiſt us by his Grace ſo truly to <hi>Fear God and Honour the King,</hi> that we may daily grow in Favour with both.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36943:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
